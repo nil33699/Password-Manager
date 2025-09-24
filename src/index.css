@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer components{
+    .container{
+        color: white;
+        
+    }
+}                           this method is used to create your own class       */                                  
